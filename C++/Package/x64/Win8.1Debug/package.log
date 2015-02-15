@@ -1,0 +1,27 @@
+﻿Сборка начата 03.02.2015 21:15:07.
+     1>Проект "C:\Users\Ahmed\Downloads\ОС. курсовой проект\Keyboard Input WDF Filter Driver (Kbfiltr)\C++\Package\package.VcxProj" в узле 2 (целевые объекты Build).
+     1>Inf2Cat:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\inf2cat.exe /os:6_3_x64 /driver:"C:\Users\Ahmed\Downloads\ОС. курсовой проект\Keyboard Input WDF Filter Driver (Kbfiltr)\C++\x64\Win8.1Debug\package\\" 
+         ..........................
+         Signability test complete.
+         
+         Errors:
+         None
+         
+         Warnings:
+         None
+         
+         Catalog generation complete.
+         C:\Users\Ahmed\Downloads\ОС. курсовой проект\Keyboard Input WDF Filter Driver (Kbfiltr)\C++\x64\Win8.1Debug\package\kmdfsamples.cat
+       DriverTestSign:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\signtool.exe sign /ph /sha1 "0DF256738B9D7BA6A5CB02002D77B06EB96011C5" 
+         Done Adding Additional Store
+         Successfully signed: C:\Users\Ahmed\Downloads\.  \Keyboard Input WDF Filter Driver (Kbfiltr)\C++\x64\Win8.1Debug\package\kmdfsamples.cat
+         
+       Deploy:
+         Deploying driver files for project "C:\Users\Ahmed\Downloads\ОС. курсовой проект\Keyboard Input WDF Filter Driver (Kbfiltr)\C++\Package\package.VcxProj".  Deployment may take a few minutes...
+     1>Сборка проекта "C:\Users\Ahmed\Downloads\ОС. курсовой проект\Keyboard Input WDF Filter Driver (Kbfiltr)\C++\Package\package.VcxProj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:19:50.51

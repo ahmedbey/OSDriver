@@ -1,0 +1,13 @@
+﻿Сборка начата 22.12.2014 0:30:13.
+     1>Проект "C:\Users\Ahmed\Downloads\ОС. курсовой проект\Keyboard Input WDF Filter Driver (Kbfiltr)\C++\exe\kbftest.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Ix64\Win8.1Debug\ /Zi /nologo /W4 /WX /Od /D _WIN64 /D _AMD64_ /D AMD64 /D WIN32_LEAN_AND_MEAN=1 /D _WIN32_WINNT=0x0603 /D WINVER=0x0603 /D WINNT=1 /D NTDDI_VERSION=0x06030000 /D DBG=1 /Gm- /RTC1 /MTd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"x64\Win8.1Debug\\" /Fd"x64\Win8.1Debug\vc120.pdb" /Gz /TC /FI"C:\Program Files (x86)\Windows Kits\8.1\Include\Shared\warning.h" /errorReport:prompt kbftest.c
+         kbftest.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"x64\Win8.1Debug\kbftest.exe" /INCREMENTAL:NO /NOLOGO /WX kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib setupapi.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"x64\Win8.1Debug\kbftest.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"x64\Win8.1Debug\kbftest.lib" /MACHINE:X64 /IGNORE:4198,4010,4037,4039,4065,4070,4078,4087,4089,4221,4108,4088,4218,4218,4235 x64\Win8.1Debug\kbftest.obj
+         kbftest.vcxproj -> C:\Users\Ahmed\Downloads\ОС. курсовой проект\Keyboard Input WDF Filter Driver (Kbfiltr)\C++\exe\x64\Win8.1Debug\kbftest.exe
+     1>Сборка проекта "C:\Users\Ahmed\Downloads\ОС. курсовой проект\Keyboard Input WDF Filter Driver (Kbfiltr)\C++\exe\kbftest.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:12.68
